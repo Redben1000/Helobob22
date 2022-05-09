@@ -2,7 +2,7 @@ export const games = [
     {
         gamename: "Retro Bowl",
         gameIMG: "images/rb.jpg",
-        link: "https://redben1002.github.io/totallygoogledrive.github.io/projects/retro-bowl/",
+        link: "https://redben1002.github.io/totallygoogledrive.github.io",
         viewed_on: 0,
         genre: "Sports"
     },
