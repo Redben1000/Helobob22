@@ -536,7 +536,7 @@ export const games = [
     {
         gamename: "Cat Trap",
         gameIMG : "images/Cat-Trap-Game.jpg",
-        link: "bandruf.github.io/cat-trap/"   ,
+        link: "redben1002.github.io/cat-trap/"   ,
         viewed_on: 0,
     },
     {
