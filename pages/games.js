@@ -61,9 +61,9 @@ export const games = [
         viewed_on: 0,                genre: "None"
     },
     {
-        gamename: "RooftopSnipers",
+        gamename: "RooftopSnipers(I FIXED IT SO STOP GETTING ANRGY)",
         gameIMG : "images/rooftop-snipers.jpg",
-        link: "bandruf.github.io/rooftopsnipers"   ,
+        link: "redben1002.github.io/totallygoogledrive.github.io/projects/rooftop-snipers/"   ,
         viewed_on: 0,                genre: "Action"
     },
     {
