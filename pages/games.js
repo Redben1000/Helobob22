@@ -1,12 +1,16 @@
 export const games = [
 
-    {
-        gamename: "Retro Bowl",
-        gameIMG: "images/rb.jpg",
-        link: "redben1002.github.io/totallygoogledrive.github.io/projects/retro-bowl/",
-        viewed_on: 0,
-        genre: "Sports"
-    },
+ <div id="button-container">
+        <div id="game-page">
+            <button class="page-button" id="game-button1">Changelog</button>
+        </div>
+    </div>
+    <script>
+        document.getElementById("game-button1").onclick = function(){
+            window.location.href = "pages/index.html"
+        }
+      
+    </script>
     {
         gamename: "Clumsy Bird",
         gameIMG : "images/clum.jpg",
