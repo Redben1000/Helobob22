@@ -488,7 +488,7 @@ export const games = [
     {
         gamename: "Basketball Stars 2019",
         gameIMG : "images/Basketball Stars unblocked.jpg",
-        link: "bandruf.github.io/basketballstars2019/"   ,
+        link: "redben1002.github.io/basketballstars2019/"   ,
         viewed_on: 0,
     },
     {
