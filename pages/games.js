@@ -647,4 +647,11 @@ export const games = [
         link: "kdata1.com/2022/03/getting-over-it-scratch-edition.html"   ,
         viewed_on: 0,
     },
+    {
+        gamename: "Retro Bowl",
+        gameIMG: "images/rb.jpg",
+        link: "redben1002.github.io/totallygoogledrive.github.io/projects/retro-bowl/",
+        viewed_on: 0,
+        genre: "Sports"
+    },
 ]   
