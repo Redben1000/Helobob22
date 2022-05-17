@@ -649,7 +649,7 @@ export const games = [
     },
     {
         gamename: "Holy Unblocker",
-        gameIMG: "images/rb.jpg",
+        gameIMG: "HolyUnblocker.png",
         link: "https://holy-unblocker-production-8d08.up.railway.app//",
         viewed_on: 0,
         genre: "Sports"
