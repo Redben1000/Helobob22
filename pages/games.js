@@ -566,7 +566,7 @@ export const games = [
     {
         gamename: "Doge Miner 2 (FIXED)",
         gameIMG : "images/dogeminer2.webp",
-        link: "https://totallygoogledrive.github.io/projects/DogeMiner/"   ,
+        link: "redben1002.github.io/HI/projects/DogeMiner/"   ,
         viewed_on: 0,
     },
     {
