@@ -1,11 +1,4 @@
 export const games = [
-       {
-        gamename: "CHANGELOG",
-        gameIMG: "images/rb.jpg",
-        link: "/gamedevccj.github.io/CCJ-Games/",
-        viewed_on: 0,
-        genre: "Sports"
-    },
     {
         gamename: "Retro Bowl",
         gameIMG: "images/rb.jpg",
