@@ -654,4 +654,10 @@ export const games = [
         viewed_on: 0,
         genre: "Sports"
     },
+     {
+        gamename: "Space",
+        gameIMG : "",
+        link: "sparticle999.github.io/SpaceCompany/"   ,
+        viewed_on: 0,
+    },
 ]   
