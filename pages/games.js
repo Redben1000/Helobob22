@@ -1,6 +1,12 @@
 export const games = [
-
-  {
+       {
+        gamename: "CHANGELOG",
+        gameIMG: "images/rb.jpg",
+        link: "/gamedevccj.github.io/CCJ-Games/",
+        viewed_on: 0,
+        genre: "Sports"
+    },
+    {
         gamename: "Retro Bowl",
         gameIMG: "images/rb.jpg",
         link: "redben1002.github.io/totallygoogledrive.github.io/projects/retro-bowl/",
@@ -651,7 +657,7 @@ export const games = [
     {
         gamename: "Holy Unblocker",
         gameIMG: "HolyUnblocker.png",
-        link:artbanner.cf//",
+        link: "holy-unblocker-production-8d08.up.railway.app//",
         viewed_on: 0,
         genre: "Sports"
     },
