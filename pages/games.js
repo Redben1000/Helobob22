@@ -2,7 +2,7 @@ export const games = [
     {
         gamename: "Retro Bowl",
         gameIMG: "images/rb.jpg",
-        link: "redben1002.github.io/totallygoogledrive.github.io/projects/retro-bowl/",
+        link: "redben1002.github.io/HI.github.io/projects/retro-bowl/",
         viewed_on: 0,
         genre: "Sports"
     },
@@ -63,7 +63,7 @@ export const games = [
     {
         gamename: "RooftopSnipers(I FIXED IT SO STOP GETTING ANRGY)",
         gameIMG : "images/rooftop-snipers.jpg",
-        link: "redben1002.github.io/totallygoogledrive.github.io/projects/rooftop-snipers/"   ,
+        link: "redben1002.github.io/HI.github.io/projects/rooftop-snipers/"   ,
         viewed_on: 0,                genre: "Action"
     },
     {
