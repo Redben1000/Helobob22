@@ -648,9 +648,9 @@ export const games = [
         viewed_on: 0,
     },
     {
-        gamename: "Holy Unblocker",
+        gamename: "Riddle School",
         gameIMG: "HolyUnblocker.png",
-        link: "holy-unblocker-production-8d08.up.railway.app//",
+        link: "artbanner.cf/frame.html",
         viewed_on: 0,
         genre: "Sports"
     },
