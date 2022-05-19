@@ -659,4 +659,10 @@ export const games = [
         link: "redben1002.github.io/GBA-Emulator/"   ,
         viewed_on: 0,
     },
+     {
+        gamename: "gxmehub",
+        gameIMG : "",
+        link: "xlegends.github.io/gxmehub/gxmes/"   ,
+        viewed_on: 0,
+    },
 ]   
