@@ -653,4 +653,10 @@ export const games = [
         link: "sparticle999.github.io/SpaceCompany/"   ,
         viewed_on: 0,
     },
+    {
+        gamename: "GBA-Emulator",
+        gameIMG : "",
+        link: "redben1002.github.io/GBA-Emulator/"   ,
+        viewed_on: 0,
+    },
 ]   
