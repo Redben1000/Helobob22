@@ -654,6 +654,27 @@ export const games = [
         viewed_on: 0,
         genre: "Sports"
     },
+    {
+        gamename: "Riddle School 2",
+        gameIMG: "HolyUnblocker.png",
+        link: "artbanner.cf/frame.html",
+        viewed_on: 0,
+        genre: "Sports"
+    },
+    {
+        gamename: "Riddle School 3",
+        gameIMG: "HolyUnblocker.png",
+        link: "artbanner.cf/frame.html",
+        viewed_on: 0,
+        genre: "Sports"
+    },
+    {
+        gamename: "Riddle School 4",
+        gameIMG: "HolyUnblocker.png",
+        link: "artbanner.cf/frame.html",
+        viewed_on: 0,
+        genre: "Sports"
+    },
      {
         gamename: "Space",
         gameIMG : "",
