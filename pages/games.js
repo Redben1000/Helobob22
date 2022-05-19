@@ -646,36 +646,8 @@ export const games = [
         gameIMG : "images/Getting-Over-It-on-MIT-Scratch-Engine (1).webp",
         link: "kdata1.com/2022/03/getting-over-it-scratch-edition.html"   ,
         viewed_on: 0,
-    },
+    },  
     {
-        gamename: "Riddle School",
-        gameIMG: "HolyUnblocker.png",
-        link: "artbanner.cf/frame.html",
-        viewed_on: 0,
-        genre: "Sports"
-    },
-    {
-        gamename: "Riddle School 2",
-        gameIMG: "HolyUnblocker.png",
-        link: "artbanner.cf/frame.html",
-        viewed_on: 0,
-        genre: "Sports"
-    },
-    {
-        gamename: "Riddle School 3",
-        gameIMG: "HolyUnblocker.png",
-        link: "artbanner.cf/frame.html",
-        viewed_on: 0,
-        genre: "Sports"
-    },
-    {
-        gamename: "Riddle School 4",
-        gameIMG: "HolyUnblocker.png",
-        link: "artbanner.cf/frame.html",
-        viewed_on: 0,
-        genre: "Sports"
-    },
-     {
         gamename: "Space",
         gameIMG : "",
         link: "sparticle999.github.io/SpaceCompany/"   ,
