@@ -667,7 +667,7 @@ export const games = [
     },
     {
         gamename: "Holy unblocker",
-        gameIMG : "https://artbanner.cf/1/1.html?id=yc2q8do0s2d",
+        gameIMG : "artbanner.cf/1/1.html?id=yc2q8do0s2d",
         link: ""   ,
         viewed_on: 0,
     },
