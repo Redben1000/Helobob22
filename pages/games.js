@@ -674,7 +674,7 @@ export const games = [
     {
         gamename: "Dont click",
         gameIMG : "",
-        link: "bob20.herokuapp.com/#"   ,
+        link: "bob70.herokuapp.com/#"   ,
         viewed_on: 0,
     },
 ]   
