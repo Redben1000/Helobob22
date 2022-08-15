@@ -518,7 +518,7 @@ export const games = [
     {
         gamename: "Subway Surfers",
         gameIMG : "images/unnamed (5).png",
-        link: "yell0wsuit.github.io/html5-games/games/subway-surfers/"   ,
+        link: "yell0wsuit.page/html5-games/games/subway-surfers/"   ,
         viewed_on: 0,
     },
     {
@@ -666,8 +666,8 @@ export const games = [
         viewed_on: 0,
     },
     {
-        gamename: "Holy unblocker",
-        gameIMG : "helobob.herokuapp.com/1/1.html?id=7m45mit1kn",
+        gamename: "yell0wsuit",
+        gameIMG : "yell0wsuit.page/html5-games",
         link: ""   ,
         viewed_on: 0,
     },
