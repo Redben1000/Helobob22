@@ -677,4 +677,10 @@ export const games = [
         link: "leafy-souffle-0c6d20.netlify.app/projects.html"   ,
         viewed_on: 0,
     },
+        {
+        gamename: "Dont click",
+        gameIMG : "",
+        link: "leafy-souffle-0c6d20.netlify.app/projects.html"   ,
+        viewed_on: 0,
+    },
 ]   
