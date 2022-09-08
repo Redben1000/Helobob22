@@ -674,11 +674,11 @@ export const games = [
     {
         gamename: "Dont click",
         gameIMG : "",
-        link: "leafy-souffle-0c6d20.netlify.app/projects.html"   ,
+        link: "helloworld2009.netlify.app/projects.html"   ,
         viewed_on: 0,
     },
     {
-        gamename: "Dont click",
+        gamename: "ludi",
         gameIMG : "",
         link: "leafy-souffle-0c6d20.netlify.app/projects.html"   ,
         viewed_on: 0,
