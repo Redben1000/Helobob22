@@ -680,7 +680,7 @@ export const games = [
     {
         gamename: "ludi",
         gameIMG : "",
-        link: "leafy-souffle-0c6d20.netlify.app/projects.html"   ,
+        link: "bobiscool1.herokuapp.com/"   ,
         viewed_on: 0,
     },
 ]   
