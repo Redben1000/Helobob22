@@ -198,7 +198,7 @@ export const games = [
     {
         gamename: "Cookie Clicker",
         gameIMG : "images/cookie.jpg",
-        link: "advanced-channeler.02.gz-associates.com/?t=tmm-cookieclicker"   ,
+        link: "sparkly-pony-abdad4.netlify.app/projects/cookie-clicker/index.html"   ,
         viewed_on: 0,                genre: "Endless"
     },
     {
