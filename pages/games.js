@@ -408,6 +408,7 @@ export const games = [
         viewed_on: 0,
         isfile: "false",
     },
+    {
         gamename: "Vex 7",
         gameIMG : "0c454c9562d249d28ba3a2b50564042c-512x512.jpg",
         link: "sparkly-pony-abdad4.netlify.app/projects/vex7/index.html"   ,
