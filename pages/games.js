@@ -2,7 +2,7 @@ export const games = [
     {
         gamename: "Retro Bowl",
         gameIMG: "images/rb.jpg",
-        link: "redben1002.github.io/New.github.io/projects/retro-bowl/",
+        link: "sparkly-pony-abdad4.netlify.app/projects/retro-bowl/index.html",
         viewed_on: 0,
         genre: "Sports"
     },
