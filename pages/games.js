@@ -360,7 +360,7 @@ export const games = [
     {
         gamename: "Slope",
         gameIMG : "images/Screen-Shot-2017-12-16-at-1.12.38-AM.png",
-        link: "advanced-channeler.02.gz-associates.com/?t=tmm-slope"   ,
+        link: "sparkly-pony-abdad4.netlify.app/projects/slope/index.html"   ,
         viewed_on: 0,        isfile: "true",
     },
     {
