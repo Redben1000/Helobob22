@@ -564,9 +564,9 @@ export const games = [
         viewed_on: 0,
     },
     {
-        gamename: "Doge Miner 2 (FIXED)",
+        gamename: "Doge Miner",
         gameIMG : "images/dogeminer2.webp",
-        link: "redben1002.github.io/New/projects/DogeMiner/"   ,
+        link: "sparkly-pony-abdad4.netlify.app/projects/dogeminer/"   ,
         viewed_on: 0,
     },
     {
