@@ -656,7 +656,7 @@ export const games = [
     {
         gamename: "GBA-Emulator",
         gameIMG : "",
-        link: "redben1002.github.io/GBA-Emulator/"   ,
+        link: "hippie-hoppity-this-is-now-my-property.github.io/EmulatorBroken/"   ,
         viewed_on: 0,
     },
      {
@@ -665,22 +665,10 @@ export const games = [
         link: "xlegends.github.io/gxmehub/gxmes/"   ,
         viewed_on: 0,
     },
-    {
-        gamename: "yell0wsuit",
-        gameIMG : "yell0wsuit.page/html5-games",
-        link: ""   ,
-        viewed_on: 0,
-    },
-    {
+     {
         gamename: "Dont click",
         gameIMG : "",
         link: "helloworld2009.netlify.app/projects.html"   ,
-        viewed_on: 0,
-    },
-    {
-        gamename: "ludi",
-        gameIMG : "",
-        link: "bobiscool1.herokuapp.com/"   ,
         viewed_on: 0,
     },
 ]   
