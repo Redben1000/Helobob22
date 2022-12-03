@@ -61,9 +61,9 @@ export const games = [
         viewed_on: 0,                genre: "None"
     },
     {
-        gamename: "RooftopSnipers(I FIXED IT SO STOP GETTING ANRGY)",
+        gamename: "RooftopSnipers",
         gameIMG : "images/rooftop-snipers.jpg",
-        link: "redben1002.github.io/New.github.io/projects/rooftop-snipers/"   ,
+        link: "sparkly-pony-abdad4.netlify.app/projects/rooftop-snipers/index.html"   ,
         viewed_on: 0,                genre: "Action"
     },
     {
@@ -75,7 +75,7 @@ export const games = [
     {
         gamename: "Stack Bump 3D",
         gameIMG : "images/3dballs.png",
-        link: "bandruf.github.io/sb/",
+        link: "sparkly-pony-abdad4.netlify.app/projects/stack-bump-3d/index.html",
         viewed_on: 0,                   genre: "Action"
     },
     {
@@ -165,7 +165,7 @@ export const games = [
     {
         gamename: "Paper.io2",
         gameIMG : "images/d2708e8aa31df3fe7b211bca36405d6d.jpg",
-        link: "script.google.com/macros/s/AKfycbxO8jKpDOwFYpSGrGbReR4Mv2e1-6T4uHsWBphygjzyG8Qqpvij/exec"   ,
+        link: "sparkly-pony-abdad4.netlify.app/projects/paperio2/index.html"   ,
         viewed_on: 0,                genre: "Action"
     },
     {
@@ -488,7 +488,7 @@ export const games = [
     {
         gamename: "Basketball Stars 2019",
         gameIMG : "images/Basketball Stars unblocked.jpg",
-        link: "redben1002.github.io/basketballstars2019/"   ,
+        link: "sparkly-pony-abdad4.netlify.app/projects/basketball-stars/index.html"   ,
         viewed_on: 0,
     },
     {
