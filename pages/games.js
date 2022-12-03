@@ -9,7 +9,7 @@ export const games = [
     {
         gamename: "Clumsy Bird",
         gameIMG : "images/clum.jpg",
-        link: "ellisonleao.github.io/clumsy-bird/",
+        link: "sparkly-pony-abdad4.netlify.app/projects/flappy-bird/index.html",
         viewed_on: 0,                genre: "Endless"
     },
     {
