@@ -402,13 +402,6 @@ export const games = [
         isfile: "false",
     },
     {
-        gamename: "Vex 6",
-        gameIMG : "thumb150_vex-6_191x191-thumb.jpg",
-        link: "sparkly-pony-abdad4.netlify.app/projects/vex6/index.html"   ,
-        viewed_on: 0,
-        isfile: "false",
-    },
-    {
         gamename: "Pixel Warfare",
         gameIMG : "images/Pixel Warfare unblocked.jpeg",
         link: "mj89sp3sau2k7lj1eg3k40hkeppguj6j-a-sites-opensocial.googleusercontent.com/gadgets/ifr?url=http://www.gstatic.com/sites-gadgets/iframe/iframe.xml&container=enterprise&view=default&lang=en&country=ALL&sanitize=0&v=40753d033c6d88ca&libs=core&mid=66&parent=https://sites.google.com/site/unblockedgame76/pixel-warfare#up_scroll=no&up_iframeURL=https://grandcanyonshuttles.com/uploads/5/5/6/7/5567194/custom_themes/593675271171586975/pixel_warfare.html&st=e%3DAIHE3cAdMhvvFSzGwtbBI4SQGcWqnRgOZDXV%252BFHS9xwK6pRprcl8XN8fdM%252Bt9gjudxhwW%252F43Ni4EGZNs9LNEkqfWFgkkK45667x%252B5W720NmGdlog7y%252FCYcLvTD3713B1%252BXYI51Bzq7wS%26c%3Denterprise&rpctoken=-4214461903170868064"   ,
