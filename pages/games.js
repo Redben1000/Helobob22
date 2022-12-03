@@ -246,7 +246,7 @@ export const games = [
     {
         gamename: "Duck Life 4",
         gameIMG : "images/ducklife4.png",
-        link: "www.mathplayground.com/duck4/index.html"   ,
+        link: "sparkly-pony-abdad4.netlify.app/projects/ducklife4/index.html"   ,
         viewed_on: 0,                genre: "None"
     },
     {
@@ -324,7 +324,7 @@ export const games = [
     {
         gamename: "Snow Battle.io",
         gameIMG : "images/647e8f6b-ecfa-4e5b-ac40-7867d790efd5_ic.png",
-        link: "advanced-channeler.02.gz-associates.com/?t=tam-snowbattle-io"   ,
+        link: "sparkly-pony-abdad4.netlify.app/projects/snowbattle/index.html"   ,
         viewed_on: 0,        isfile: "true",
     },
     {
