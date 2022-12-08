@@ -2,6 +2,13 @@ export const games = [
     {
         gamename: "Retro Bowl",
         gameIMG: "images/rb.jpg",
+        link: "ecsj.netlify.app/projects/tosstheturtle/index.html",
+        viewed_on: 0,
+        genre: "Sports"
+    },
+    {
+        gamename: "Retro Bowl",
+        gameIMG: "images/rb.jpg",
         link: "sparkly-pony-abdad4.netlify.app/projects/retro-bowl/index.html",
         viewed_on: 0,
         genre: "Sports"
