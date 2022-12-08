@@ -1,6 +1,6 @@
 export const games = [
     {
-        gamename: "Retro Bowl",
+        gamename: "Toss the turtle",
         gameIMG: "images/rb.jpg",
         link: "ecsj.netlify.app/projects/tosstheturtle/index.html",
         viewed_on: 0,
