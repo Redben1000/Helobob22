@@ -687,9 +687,15 @@ export const games = [
         viewed_on: 0,
     },
      {
-        gamename: "Dont click",
+        gamename: "Tiny Fishing",
         gameIMG : "",
-        link: "helloworld2009.netlify.app/projects.html"   ,
+        link: "redben10.github.io/Helobob/"   ,
+        viewed_on: 0,
+    },
+    {
+        gamename: "Snowrider3D",
+        gameIMG : "",
+        link: "hippie-hoppity-this-is-now-my-property.github.io/snowrider33/"   ,
         viewed_on: 0,
     },
 ]   
