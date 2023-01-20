@@ -694,7 +694,7 @@ export const games = [
     },
     {
         gamename: "Snowrider3D",
-        gameIMG : "",
+        gameIMG : "images/hello.jpeg",
         link: "hippie-hoppity-this-is-now-my-property.github.io/snowrider33/"   ,
         viewed_on: 0,
     },
