@@ -688,7 +688,7 @@ export const games = [
     },
      {
         gamename: "Tiny Fishing",
-        gameIMG : "",
+        gameIMG : "images/Tiny.jpeg",
         link: "redben10.github.io/Helobob/"   ,
         viewed_on: 0,
     },
