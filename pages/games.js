@@ -2,7 +2,7 @@ export const games = [
     {
         gamename: "Toss the turtle",
         gameIMG: "images/tosstheturtle.jpg",
-        link: "ecsj.netlify.app/projects/tosstheturtle/index.html",
+        link: "sparkly-pony-abdad4.netlify.app/projects/tosstheturtle/index.html",
         viewed_on: 0,
         genre: "Sports"
     },
