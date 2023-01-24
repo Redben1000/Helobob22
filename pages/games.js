@@ -298,14 +298,14 @@ export const games = [
     {
         gamename: "Mario Kart",
         gameIMG : "images/maxresdefault.0.jpg",
-        link: "bandruf.github.io/mario-kart/"   ,
+        link: "gamerboy199.github.io/mario-kart/"   ,
         viewed_on: 0,
         isfile: "true",
     },
     {
         gamename: "Laser Tag FPS",
         gameIMG : "images/336871691_480x360.png",
-        link: "bandruf.github.io/Laser-Tag-Scratch-HTMLIFIED/"   ,
+        link: "gamerboy199.github.io/Laser-Tag/"   ,
         viewed_on: 0,
         isfile: "true",
     },
@@ -443,7 +443,7 @@ export const games = [
     {
         gamename: "Moto X3M Winter",
         gameIMG : "images/bcacf81441bd4c7799a622171116ea9d-512x512.jpeg",
-        link: "bandruf.github.io/motox3mwint/"   ,
+        link: "sparkly-pony-abdad4.netlify.app/projects/motox3m-winter/index.html"   ,
         viewed_on: 0,
     },
     {
