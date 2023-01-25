@@ -373,7 +373,7 @@ export const games = [
     {
         gamename: "Getaway Shootout",
         gameIMG : "images/getaway-shootout.jpg",
-        link: "advanced-channeler.02.gz-associates.com/?t=tam-getaway-shootout"   ,
+        link: "redben10.github.io/GetawayShootout/"   ,
         viewed_on: 0,        isfile: "true",
     },
     {
