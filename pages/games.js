@@ -2,21 +2,21 @@ export const games = [
     {
         gamename: "Toss the turtle",
         gameIMG: "images/tosstheturtle.jpg",
-        link: "sparkly-pony-abdad4.netlify.app/projects/tosstheturtle/index.html",
+        link: "cheeta-life.netlify.app/projects/tosstheturtle/index.html",
         viewed_on: 0,
         genre: "Sports"
     },
     {
         gamename: "Retro Bowl",
         gameIMG: "images/rb.jpg",
-        link: "sparkly-pony-abdad4.netlify.app/projects/retro-bowl/index.html",
+        link: "cheeta-life.netlify.app/projects/retro-bowl/index.html",
         viewed_on: 0,
         genre: "Sports"
     },
     {
         gamename: "Clumsy Bird",
         gameIMG : "images/clum.jpg",
-        link: "sparkly-pony-abdad4.netlify.app/projects/flappy-bird/index.html",
+        link: "cheeta-life.netlify.app/projects/flappy-bird/index.html",
         viewed_on: 0,                genre: "Endless"
     },
     {
@@ -70,7 +70,7 @@ export const games = [
     {
         gamename: "RooftopSnipers",
         gameIMG : "images/rooftop-snipers.jpg",
-        link: "sparkly-pony-abdad4.netlify.app/projects/rooftop-snipers/index.html"   ,
+        link: "cheeta-life.netlify.app/projects/rooftop-snipers/index.html"   ,
         viewed_on: 0,                genre: "Action"
     },
     {
@@ -172,7 +172,7 @@ export const games = [
     {
         gamename: "Paper.io2",
         gameIMG : "images/d2708e8aa31df3fe7b211bca36405d6d.jpg",
-        link: "sparkly-pony-abdad4.netlify.app/projects/paperio2/index.html"   ,
+        link: "cheeta-life.netlify.app/projects/paperio2/index.html"   ,
         viewed_on: 0,                genre: "Action"
     },
     {
@@ -205,7 +205,7 @@ export const games = [
     {
         gamename: "Cookie Clicker",
         gameIMG : "images/cookie.jpg",
-        link: "sparkly-pony-abdad4.netlify.app/projects/cookie-clicker/index.html"   ,
+        link: "cheeta-life.netlify.app/projects/cookie-clicker/index.html"   ,
         viewed_on: 0,                genre: "Endless"
     },
     {
@@ -253,7 +253,7 @@ export const games = [
     {
         gamename: "Duck Life 4",
         gameIMG : "images/ducklife4.png",
-        link: "sparkly-pony-abdad4.netlify.app/projects/ducklife4/index.html"   ,
+        link: "cheeta-life.netlify.app/projects/ducklife4/index.html"   ,
         viewed_on: 0,                genre: "None"
     },
     {
@@ -367,7 +367,7 @@ export const games = [
     {
         gamename: "Slope",
         gameIMG : "images/Screen-Shot-2017-12-16-at-1.12.38-AM.png",
-        link: "sparkly-pony-abdad4.netlify.app/projects/slope/index.html"   ,
+        link: "cheeta-life.netlify.app/projects/slope/index.html"   ,
         viewed_on: 0,        isfile: "true",
     },
     {
@@ -404,21 +404,21 @@ export const games = [
     {
         gamename: "Vex 5",
         gameIMG : "images/Vex-5.webp",
-        link: "sparkly-pony-abdad4.netlify.app/projects/vex5/index.html"   ,
+        link: "cheeta-life.netlify.app/projects/vex5/index.html"   ,
         viewed_on: 0,
         isfile: "false",
     },
     {
         gamename: "Vex 6",
         gameIMG : "images/thumb150_vex-6_191x191-thumb.jpg",
-        link: "sparkly-pony-abdad4.netlify.app/projects/vex6/index.html"   ,
+        link: "cheeta-life.netlify.app/projects/vex6/index.html"   ,
         viewed_on: 0,
         isfile: "false",
     },
     {
         gamename: "Vex 7",
         gameIMG : "images/0c454c9562d249d28ba3a2b50564042c-512x512.jpg",
-        link: "sparkly-pony-abdad4.netlify.app/projects/vex7/index.html"   ,
+        link: "cheeta-life.netlify.app/projects/vex7/index.html"   ,
         viewed_on: 0,
         isfile: "false",
     },
@@ -443,7 +443,7 @@ export const games = [
     {
         gamename: "Moto X3M Winter",
         gameIMG : "images/bcacf81441bd4c7799a622171116ea9d-512x512.jpeg",
-        link: "sparkly-pony-abdad4.netlify.app/projects/motox3m-winter/index.html"   ,
+        link: "cheeta-life.netlify.app/projects/motox3m-winter/index.html"   ,
         viewed_on: 0,
     },
     {
@@ -509,7 +509,7 @@ export const games = [
     {
         gamename: "Basketball Stars 2019",
         gameIMG : "images/Basketball Stars unblocked.jpg",
-        link: "sparkly-pony-abdad4.netlify.app/projects/basketball-stars/index.html"   ,
+        link: "cheeta-life.netlify.app/projects/basketball-stars/index.html"   ,
         viewed_on: 0,
     },
     {
