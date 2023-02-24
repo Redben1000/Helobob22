@@ -2,21 +2,21 @@ export const games = [
     {
         gamename: "Toss the turtle",
         gameIMG: "images/tosstheturtle.jpg",
-        link: "cheeta-life.netlify.app/projects/tosstheturtle/index.html",
+        link: "helobob999.netlify.app/projects/tosstheturtle/index.html",
         viewed_on: 0,
         genre: "Sports"
     },
     {
         gamename: "Retro Bowl",
         gameIMG: "images/rb.jpg",
-        link: "cheeta-life.netlify.app/projects/retro-bowl/index.html",
+        link: "helobob999.netlify.app/projects/retro-bowl/index.html",
         viewed_on: 0,
         genre: "Sports"
     },
     {
         gamename: "Clumsy Bird",
         gameIMG : "images/clum.jpg",
-        link: "cheeta-life.netlify.app/projects/flappy-bird/index.html",
+        link: "helobob999.netlify.app/projects/flappy-bird/index.html",
         viewed_on: 0,                genre: "Endless"
     },
     {
@@ -70,7 +70,7 @@ export const games = [
     {
         gamename: "RooftopSnipers",
         gameIMG : "images/rooftop-snipers.jpg",
-        link: "cheeta-life.netlify.app/projects/rooftop-snipers/index.html"   ,
+        link: "helobob999.netlify.app/projects/rooftop-snipers/index.html"   ,
         viewed_on: 0,                genre: "Action"
     },
     {
@@ -205,7 +205,7 @@ export const games = [
     {
         gamename: "Cookie Clicker",
         gameIMG : "images/cookie.jpg",
-        link: "cheeta-life.netlify.app/projects/cookie-clicker/index.html"   ,
+        link: "helobob999.netlify.app/projects/cookie-clicker/index.html"   ,
         viewed_on: 0,                genre: "Endless"
     },
     {
@@ -253,7 +253,7 @@ export const games = [
     {
         gamename: "Duck Life 4",
         gameIMG : "images/ducklife4.png",
-        link: "cheeta-life.netlify.app/projects/ducklife4/index.html"   ,
+        link: "helobob999.netlify.app/projects/ducklife4/index.html"   ,
         viewed_on: 0,                genre: "None"
     },
     {
@@ -418,7 +418,7 @@ export const games = [
     {
         gamename: "Vex 7",
         gameIMG : "images/0c454c9562d249d28ba3a2b50564042c-512x512.jpg",
-        link: "cheeta-life.netlify.app/projects/vex7/index.html"   ,
+        link: "helobob999.netlify.app/projects/vex7/index.html"   ,
         viewed_on: 0,
         isfile: "false",
     },
@@ -509,7 +509,7 @@ export const games = [
     {
         gamename: "Basketball Stars 2019",
         gameIMG : "images/Basketball Stars unblocked.jpg",
-        link: "cheeta-life.netlify.app/projects/basketball-stars/index.html"   ,
+        link: "helobob999.netlify.app/projects/basketball-stars/index.html"   ,
         viewed_on: 0,
     },
     {
